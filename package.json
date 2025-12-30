@@ -2,13 +2,11 @@
   "name": "iobroker.vis-players",
   "description": "Media Players Widgets for ioBroker.vis",
   "version": "0.2.0",
-  "author": {
-    "name": "instalator",
-    "email": "vvvalt@mail.ru"
-  },
+  "author": "instalator <vvvalt@mail.ru>",
   "contributors": [
     "instalator <vvvalt@mail.ru>",
-    "bluefox <dogafox@gmail.com>"
+    "bluefox <dogafox@gmail.com>",
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
   ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.vis-players",
   "repository": {

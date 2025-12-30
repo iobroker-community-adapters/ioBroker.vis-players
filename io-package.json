@@ -78,7 +78,8 @@
     ],
     "readme": "https://github.com/iobroker-community-adapters/ioBroker.vis-players/blob/master/README.md",
     "authors": [
-      "instalator <vvvalt@mail.ru>"
+      "instalator <vvvalt@mail.ru>",
+      "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
     "license": "MIT",
