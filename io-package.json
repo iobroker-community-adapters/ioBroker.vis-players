@@ -78,12 +78,16 @@
     ],
     "readme": "https://github.com/iobroker-community-adapters/ioBroker.vis-players/blob/master/README.md",
     "authors": [
-      "instalator <vvvalt@mail.ru>"
+      "instalator <vvvalt@mail.ru>",
+      "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
     "license": "MIT",
     "dependencies": [
-      "vis"
+      "vis",
+      {
+        "js-controller": ">=6.0.11"
+      }
     ],
     "onlyWWW": true,
     "adminUI": {
@@ -96,7 +100,12 @@
       "vis"
     ],
     "connectionType": "local",
-    "dataSource": "push"
+    "dataSource": "push",
+    "globalDependencies": [
+      {
+        "admin": ">=7.6.17"
+      }
+    ]
   },
   "native": {
     "dependencies": []

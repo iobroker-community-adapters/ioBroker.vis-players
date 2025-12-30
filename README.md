@@ -17,6 +17,11 @@ Widgets for media players.
 -->
 
 ## Changelog
+
+### **WORK IN PROGRESS**
+- (copilot) Adapter requires js-controller >= 6.0.11 now
+- (copilot) Adapter requires admin >= 7.6.17 now
+
 ### 0.2.0 (2022-08-19)
 * (bluefox) Updated build process
 
@@ -62,6 +67,8 @@ Widgets for media players.
 ## License
 The MIT License (MIT)
 
+
+Copyright (c) 2026 iobroker-community-adapters <iobroker-community-adapters@gmx.de>  
 Copyright (c) 2020-2022 instalator <vvvalt@mail.ru>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
