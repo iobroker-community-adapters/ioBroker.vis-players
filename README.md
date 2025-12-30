@@ -62,7 +62,6 @@ Widgets for media players.
 ## License
 The MIT License (MIT)
 
-
 Copyright (c) 2026 iobroker-community-adapters <iobroker-community-adapters@gmx.de>  
 Copyright (c) 2020-2022 instalator <vvvalt@mail.ru>
 
