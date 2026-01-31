@@ -2,7 +2,6 @@
   "common": {
     "name": "vis-players",
     "version": "0.2.0",
-    "title": "Visualisation - Media players widgets",
     "titleLang": {
       "en": "Media players widgets",
       "de": "Medienspieler Widgets",
