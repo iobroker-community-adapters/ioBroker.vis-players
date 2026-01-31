@@ -82,6 +82,7 @@
       "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
+    "tier": 3,
     "license": "MIT",
     "dependencies": [
       "vis"
