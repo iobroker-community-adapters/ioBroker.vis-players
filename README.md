@@ -59,6 +59,8 @@ Widgets for media players.
 ### 0.0.1
 * (instalator) initial commit (21.10.2016)
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 The MIT License (MIT)
 
